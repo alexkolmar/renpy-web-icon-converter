@@ -14,8 +14,8 @@ Installation
 1. First, you should download convert_icons_gui.py file.
 2. Then you need to install Python on your computer.
 3. You will also need to install Pillow library for Python. Open your PowerShell after the Python installation and write:
-    pip install pillow
+> pip install pillow
 or
-    pip3 install pillow
+>pip3 install pillow
 for python3
 4. After this you'll be able to start convert_icons_gui.py and convert your png image into required files for your web Ren'Py game. 
