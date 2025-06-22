@@ -22,4 +22,5 @@ or
 >pip3 install pillow
 
 for python3
+
 4. After this you'll be able to start convert_icons_gui.py and convert your png image into required files for your web Ren'Py game. 
