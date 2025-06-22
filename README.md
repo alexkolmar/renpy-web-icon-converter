@@ -9,7 +9,7 @@ I just started learning Python, so I asked the neural network for help and it he
 
 I decided to share it with others.
 
-Installation
+### Installation
 
 1. First, you should download convert_icons_gui.py file.
 2. Then you need to install Python on your computer.
